@@ -1,1 +1,1 @@
-# Price-Alert-Service
+# Pricing-Alert-Service
