@@ -1,5 +1,5 @@
 # Pricing-Alert-Service
-Pricing-Alert-Service[https://claire-pricing-alert-service.herokuapp.com/]
+[Pricing-Alert-Service Wensite](https://claire-pricing-alert-service.herokuapp.com/)
 
 ## Project Overview
 ### Project Description
