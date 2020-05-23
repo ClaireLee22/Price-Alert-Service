@@ -7,11 +7,11 @@ Build a web application to scan the online stores periodically and notify users 
 Users can add, remove, edit alerts, whereas only admin is allowed to add, remove, update online stores. 
 
 ### Project Technologies
-- web framewrok: Flask
-- database: mongoDB
-- web scraping: BeautifulSoup
-- front-end framework: Bootstrap
-- third-party API: Mailgun
+- Web framewrok: Flask
+- Database: mongoDB
+- Web scraping: BeautifulSoup
+- Front-end framework: Bootstrap
+- Third-party API: Mailgun
 
 ### Project Results
 <img src="images/home.png">
