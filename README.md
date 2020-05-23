@@ -14,4 +14,8 @@ Users can add, remove, edit alerts, whereas only admin is allowed to add, remove
 - third-party API: Mailgun
 
 ### Project Results
-<img src="images/">
+<img src="images/home.png">
+<img src="images/register.png">
+<img src="images/login.png">
+<img src="images/alerts.png">
+<img src="images/stores.png">
